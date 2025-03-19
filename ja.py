@@ -4,6 +4,9 @@
 # This file takes care of shifting to the right if the left column is filled up.
 # Run it first before trying to fix a non-issue lol
 
+import shutil
+import subprocess
+from pypdf import PdfReader, PdfWriter
 from spire.xls import *
 from spire.xls.common import *
 from prg.loadCV import loadCV
@@ -247,3 +250,34 @@ sheet.Range["O51"].Text = f"職場: {workplace_expectations}\n給与: {salary_ex
 
 # save japanese cv
 wb.SaveToFile("./out/ja.cv.xlsx", FileFormat.Version2016)
+
+# green ansi success message for xlsx file
+xlsx_success_message = "\033[92mSuccessfully generated ja.cv.xlsx\033[0m"
+print(xlsx_success_message)
+
+# Run LibreOffice in headless mode to convert the file
+subprocess.run(
+    ["soffice", "--headless", "--convert-to", "pdf", "./out/ja.cv.xlsx"], check=True
+)
+
+# Define new location
+soffice_output = "ja.cv.pdf"
+destination_path = os.path.join("./out", os.path.basename("ja.cv.pdf"))
+
+# Move the file to the out folder
+shutil.move(soffice_output, destination_path)
+
+# crop to first page
+reader = PdfReader(destination_path)
+writer = PdfWriter()
+
+# Add only the first page to the new PDF
+writer.add_page(reader.pages[0])
+
+# Save the new PDF
+with open(destination_path, "wb") as output_file:
+    writer.write(output_file)
+
+# green ansi success message for pdf file
+pdf_success_message = "\033[92mSuccessfully generated ja.cv.pdf\033[0m"
+print(pdf_success_message)
