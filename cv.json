@@ -14,7 +14,7 @@
       "ProgrammingLanguageNovice": {
         "ja": "基本的なプログラミングが可能",
         "en": "Able to do basic programming",
-        "de": "In der Lage, grundlegende Programmierung zu machen"
+        "de": "In der Lage, grundlegende Programmieraufgaben zu erledigen"
       },
       "SoftwareExpert": {
         "ja": "あらゆる要件に対応でき, 最適なソリューションを提供し, 複雑なシステムにも柔軟に対応可能",
@@ -124,12 +124,28 @@
       "en": "German",
       "de": "Deutsch"
     },
-    "Email": "davidckss@proton.me",
-    "Phone": "080-7733-2470",
+    "Email": "info@sandai.org",
+    "Phone": {
+      "ja": "080-7733-2470",
+      "en": "+81 80-7733-2470",
+      "de": "+81 80-7733-2470"
+    },
     "Address": {
-      "Address": "東京都板橋区成増３−３−２３, Casa de Kei Narimasu 404",
-      "Furigana": "とうきょうといたばしくなります３−３−２３, Casa de Kei Narimasu 404",
-      "Zip": "175-0094"
+      "Address": {
+        "ja": "東京都板橋区成増３−３−２３, Casa de Kei Narimasu 404",
+        "en": "Tokyo, Itabashi-ku, Narimasu 3-3-23, Casa de Kei Narimasu 404",
+        "de": "Burgsteige 20, 72070 Tübingen, Deutschland"
+      },
+      "Furigana": {
+        "ja": "とうきょうといたばしくなります３−３−２３, Casa de Kei Narimasu 404",
+        "en": "",
+        "de": ""
+      },
+      "Zip": {
+        "ja": "175-0094",
+        "en": "175-0094",
+        "de": "72070"
+      }
     }
   },
   "Education": [
@@ -246,12 +262,12 @@
       "Role": {
         "ja": "パートタイムホームオートメーションエンジニア",
         "en": "Part-time home automation engineer",
-        "de": "Teilzeit-Hausautomatisierungsingenieur"
+        "de": "Teilzeit-Heimautomatisierungsingenieur"
       },
       "CompanyDescription": {
         "ja": "ウエブやホームオートメーションシステム開発",
         "en": "Web and home automation system development",
-        "de": "Web- und Hausautomatisierungssystementwicklung"
+        "de": "Web- und Heimautomatisierungssystementwicklung"
       },
       "Workers": {
         "ja": "〜１５人",
@@ -380,7 +396,7 @@
           "Description": {
             "ja": "IP-Symconを利用したPHPでのKNXホームオートメーションのプログラミング",
             "en": "Programming of KNX home automation systems using IP-Symcon Modules and PHP",
-            "de": "Programmierung von KNX-Hausautomatisierungssystemen mit IP-Symcon-Modulen und PHP"
+            "de": "Programmierung von KNX-systemen mit IP-Symcon-Modulen und PHP"
           },
           "Link": ""
         }
@@ -422,7 +438,7 @@
           "Tasks": {
             "ja": "棚の陳列, 在庫管理, 商品整理, 在庫補充",
             "en": "Shelving, inventory management, product organization, stock replenishment",
-            "de": "Regalbestückung, Bestandsverwaltung, Produktorganisation, Auffüllung der Bestände"
+            "de": "Regalbestückung, Bestandsverwaltung, Produktorganisation"
           }
         }
       ],
@@ -491,7 +507,7 @@
           "Description": {
             "ja": "在庫管理, 在庫補充, 倉庫管理",
             "en": "Inventory control, stock replenishment, and warehouse management",
-            "de": "Bestandskontrolle, Auffüllung der Bestände und Lagerverwaltung"
+            "de": "Bestandskontrolle, Lagerverwaltung"
           },
           "Link": ""
         }
@@ -545,7 +561,7 @@
           "Tasks": {
             "ja": "コンテンツ制作, コピーライティング, 校正・編集, 資料作成, ビジュアルデザイン, スキーマ作成, 動画制作, クライアント獲得, マーケティング戦略支援, ブランドメッセージ策定, キャンペーン企画, 競合分析, ドキュメント管理",
             "en": "Content creation, copywriting, proofreading and editing, document creation, visual design, schema creation, video production, client acquisition, marketing strategy support, brand message development, campaign planning, competitive analysis, document management",
-            "de": "Content creation, Copywriting, Korrekturlesen und Bearbeiten, Dokumentenerstellung, visuelles Design, Schemaerstellung, Videoproduktion, Kundengewinnung, Unterstützung der Marketingstrategie, Entwicklung der Markenbotschaft, Unterstützung bei der Kampagnenplanung, Wettbewerbsanalyse, Dokumentenmanagement"
+            "de": "Content creation, Copywriting, Korrekturlesen und Bearbeiten, Dokumentenerstellung, visuelles Design, Schemaerstellung, Videoproduktion, Kundengewinnung, Entwicklung von Marketingstrategie und Markenbotschaft, Kampagnenplanung, Wettbewerbsanalyse, Dokumentenmanagement"
           }
         }
       ],
@@ -572,7 +588,7 @@
           "Description": {
             "ja": "WebサイトとChrome拡張機能を立ち上げ, 約70人のユーザーを獲得",
             "en": "Launched a website and Chrome extension, acquiring approximately 70 users",
-            "de": "Website und Chrome-Erweiterung gestartet und ca. 70 Nutzer gewonnen"
+            "de": "Website und Chrome-Erweiterung mit ca. 100 Nutzern"
           },
           "Link": "https://gptpc.onrender.com/"
         },
@@ -584,8 +600,8 @@
           },
           "Description": {
             "ja": "複数の言語対応により, 暗号通貨ファウセットWebサイトのユーザビリティを向上",
-            "en": "Enhanced usability of the crypto faucet website by implementing multilingual support",
-            "de": "Benutzerfreundlichkeit der Crypto-Faucet-Website durch Mehrsprachigkeit verbessert"
+            "en": "Internationalization of a web3 Project",
+            "de": "Internationalizierung von web3 Kontent"
           },
           "Link": ""
         },
@@ -597,8 +613,8 @@
           },
           "Description": {
             "ja": "3D AIキャラクター生成のためのSaaSを開発し, 新規クライアントを獲得",
-            "en": "Developed a SaaS for generating 3D AI Characters, leading to new client acquisition",
-            "de": "Entwicklung einer SaaS zur Erstellung von 3D-AI-Charakteren, die zur Kundengewinnung führte"
+            "en": "Developed a SaaS for generating 3D AI Characters, leading to new client acquizursition",
+            "de": "Entwicklung einer SaaS zur Erstellung von 3D-AI-Charakteren zur erfolgreichen generierung von Neukunden"
           },
           "Link": "https://sandai.org/"
         }
@@ -820,8 +836,8 @@
         {
           "Description": {
             "ja": "JavaScript, TypeScript, Dart, Rustを利用した（ウェブ）アプリ作成（Flutter, React, NextJS, Yew）",
-            "en": "Programming of (web) apps in JavaScript, TypeScript, Dart and Rust (using Flutter, React, NextJS and Yew)",
-            "de": "Programmierung von (Web-) Anwendungen in JavaScript, TypeScript, Dart und Rust (mit Flutter, React, NextJS und Yew)"
+            "en": "Building apps in JavaScript, TypeScript, Dart and Rust (using Flutter, React, NextJS and Yew)",
+            "de": "Erstellung von Apps in JavaScript, TypeScript, Dart und Rust (mit Flutter, React, NextJS und Yew)"
           },
           "Link": ""
         }
@@ -875,7 +891,7 @@
           "Tasks": {
             "ja": "コンテンツ制作, コピーライティング, 校正・編集, 資料作成, ビジュアルデザイン, スキーマ作成, 動画制作, クライアント獲得, マーケティング戦略支援, ブランドメッセージ策定, キャンペーン企画サポート, ドキュメント管理",
             "en": "Content creation, copywriting, proofreading and editing, document creation, visual design, schema creation, video production, client acquisition, marketing strategy support, brand message development, campaign planning support, document management",
-            "de": "Content creation, Copywriting, Korrekturlesen und Bearbeiten, Dokumentenerstellung, visuelles Design, Schemaerstellung, Videoproduktion, Kundengewinnung, Unterstützung der Marketingstrategie, Entwicklung der Markenbotschaft, Unterstützung bei der Kampagnenplanung, Dokumentenmanagement"
+            "de": "Content creation, Copywriting, Korrekturlesen und Bearbeiten, Dokumentenerstellung, visuelles Design, Schemaerstellung, Videoproduktion, Kundengewinnung, Entwicklung von Marketingstrategie und Markenbotschaft, Kampagnenplanung, Dokumentenmanagement"
           }
         }
       ],
@@ -902,7 +918,7 @@
           "Description": {
             "ja": "国際会議WACL4で受理された研究論文を共同執筆",
             "en": "Co-authored a research paper accepted at the international conference WACL4",
-            "de": "Mitverfasstes Forschungspapier auf der internationalen Konferenz WACL4 angenommen"
+            "de": "Mitverfassung einer Forschungsarbeit, das auf der internationalen Konferenz WACL4 angenommen wurde"
           },
           "Link": ""
         },
@@ -915,7 +931,7 @@
           "Description": {
             "ja": "アプリストアとPlayストアの要件に適合させるために, ネイティブアプリを継続的に管理",
             "en": "Maintained native iOS and Android applications to ensure compliance with App Store and Play Store requirements",
-            "de": "Nativen iOS- und Android-Anwendungen gewartet, um die Anforderungen des App Stores und Play Stores zu erfüllen"
+            "de": "Erfolgreiche Wartung nativer iOS- und Android-Anwendungen hinsichtlich App Store und Play Store Anforderungen"
           },
           "Link": ""
         },
@@ -928,7 +944,7 @@
           "Description": {
             "ja": "顧客の要求に応じて, ネイティブアプリに新機能を実装",
             "en": "Implemented new functionalities in native apps in accordance with customer requirements",
-            "de": "Neue Funktionen in nativen Apps gemäß Kundenanforderungen implementiert"
+            "de": "Erfolgrieche Implementation von neuen Funktionen in nativen Apps gemäß Kundenanforderungen"
           },
           "Link": ""
         },
@@ -941,7 +957,7 @@
           "Description": {
             "ja": "迅速なアプリプロトタイピングと開発を実現するためのフレームワークを構築",
             "en": "Developed an app framework to facilitate rapid prototyping and app creation",
-            "de": "Entwicklung eines App-Frameworks zur schnellen Prototypenerstellung und App-Entwicklung"
+            "de": "Entwicklung eines App-Frameworks zur Effizienz-steigerung (geschätzte Entwicklungszeit von neuen Apps von 2-3 Monaten auf 1-2 Wochen reduziert)"
           },
           "Link": ""
         },
@@ -954,7 +970,7 @@
           "Description": {
             "ja": "迅速なデザイン, プロトタイピング, プログラミング, テストを通じて, 短期間で3つのアプリを開発",
             "en": "Rapidly designed, prototyped, programmed, and tested 3 applications for quick iterations",
-            "de": "Schnelle Gestaltung, Prototyping, Programmierung und Tests von 3 Anwendungen zur schnellen Iteration"
+            "de": "Effizient 3 neue Anwendungen gestaltet, Prototypen erstellt und programmiert"
           },
           "Link": ""
         }
@@ -1064,8 +1080,8 @@
               "LevelKey": "FrameworkLibraryExpert",
               "Item": {
                 "ja": "CJKIApp（自作フレームワーク）",
-                "en": "CJKIApp (the framework I created)",
-                "de": "CJKIApp (das von mir erstellte Framework)"
+                "en": "CJKIApp (in-house Framework)",
+                "de": "CJKIApp (Firmeninternes Framework)"
               }
             }
           ]
@@ -1197,7 +1213,7 @@
           "Description": {
             "ja": "Objective-CとSwiftで書かれたiOSアプリケーションの開発とメンテナンス",
             "en": "Development and maintenance of iOS applications written in Objective-C and Swift",
-            "de": "Entwicklung und Wartung von iOS-Anwendungen, die in Objective-C und Swift geschrieben sind"
+            "de": "Entwicklung und Wartung von iOS-Anwendungen"
           },
           "Link": "https://apps.apple.com/tz/developer/cjki/id344405633"
         },
@@ -1205,7 +1221,7 @@
           "Description": {
             "ja": "Javaで書かれたAndroidアプリケーションの開発とメンテナンス",
             "en": "Development and maintenance of Android applications written in Java",
-            "de": "Entwicklung und Wartung von Android-Anwendungen, die in Java geschrieben sind"
+            "de": "Entwicklung und Wartung von Android-Anwendungen"
           },
           "Link": "https://play.google.com/store/apps/developer?id=%E6%97%A5%E4%B8%AD%E9%9F%93%E8%BE%AD%E5%85%B8%E7%A0%94%E7%A9%B6%E6%89%80"
         },
@@ -1221,7 +1237,7 @@
           "Description": {
             "ja": "白書や技術論文の研究と共著",
             "en": "Research and co-authoring of white papers and technical papers",
-            "de": "Recherche und Mitverfassen von Whitepapers und technischen Papieren"
+            "de": "Recherche und Mitverfassen von akademischen Arbeiten und technischen Dokumenten"
           },
           "Link": "https://www.cjk.org/data/arabic/nlp/arablex-arabic-full-form-lexicon/"
         },
@@ -1280,7 +1296,7 @@
       "Details": {
         "ja": "構造体内のリテラルのすべての出現を文字列に変換するマクロ",
         "en": "A macro to turn every occurance of a literal within a struct into a string",
-        "de": "Ein Makro, das jedes Vorkommen eines Literals innerhalb einer Struktur in einen String umwandelt"
+        "de": "Makro zur konvertierung von Literals innerhalb einer Struktur zu Strings"
       },
       "Links": {
         "Repository": "https://github.com/DavidCks/append_to_string",
@@ -1298,7 +1314,7 @@
       "Details": {
         "ja": "Rustで書かれたYewのWisywigウェブエディターで, 3D機能を備えています",
         "en": "A no-code wisywig web editor written with yew in Rust, with 3D capabilities",
-        "de": "Ein no-code Wisywig-Web-Editor, der mit Yew in Rust geschrieben wurde und 3D-Fähigkeiten bietet"
+        "de": "Rust Wysiwyg-Web-Editor, mit nativen 3D-Kapazitäten"
       },
       "Links": {
         "Repository": "https://github.com/DavidCks/Judit",
@@ -1315,8 +1331,8 @@
       "Title": "GPTPC",
       "Details": {
         "ja": "JavaScriptとPiperTTSと@pixiv/three-vrmとReactとViteを使用したChrome拡張機能",
-        "en": "Chrome extension written in JavaScript using React and Vite, utilizing PiperTTS and @pixiv/three-vrm",
-        "de": "Chrome-Erweiterung, die in JavaScript mit React und Vite geschrieben wurde und PiperTTS und @pixiv/three-vrm verwendet"
+        "en": "Chrome extension built with React and Vite, utilizing PiperTTS and @pixiv/three-vrm",
+        "de": "Chrome-Erweiterung, erstellt mit React, Vite, PiperTTS und @pixiv/three-vrm"
       },
       "Links": {
         "Repository": "https://github.com/DavidCks/vrm-ext",
@@ -1333,8 +1349,8 @@
       "EndMonth": "07",
       "Details": {
         "ja": "VRMモデルの口の動きと同期を追加した人気のPiperTTSシステムのWasmバージョン",
-        "en": "Wasm version of the popular PiperTTS system, with additional compatibility for VRM model mouth movement synchronization",
-        "de": "Wasm-Version des beliebten PiperTTS-Systems mit zusätzlicher Kompatibilität für die Synchronisierung der Mundbewegungen des VRM-Modells"
+        "en": "Wasm version of the popular PiperTTS system, with additional compatibilities",
+        "de": "Wasm-Version des beliebten PiperTTS-Systems mit zusätzlichen kapazitäten"
       },
       "Links": {
         "Repository": "https://github.com/DavidCks/piper-wasm",
@@ -1351,8 +1367,8 @@
       "EndMonth": "02",
       "Details": {
         "ja": "AIと@react-three/fiberとThree.jsを利用して, VRMアバターと簡単に話できるのツール",
-        "en": "A set of tools and components to easily integrate and interact with VRM avatars using @react-three/fiber and Three.js, utilizing AI for TTS",
-        "de": "Ein Satz von Tools und Komponenten, um VRM-Avatare mit @react-three/fiber und Three.js einfach zu integrieren und zu interagieren, wobei KI für TTS verwendet wird"
+        "en": "Package to integrate and interact with VRM avatars",
+        "de": "NPM package zur integration von VRM-Avataren"
       },
       "Links": {
         "Repository": "https://github.com/DavidCks/r3f-vrm",
@@ -1369,7 +1385,7 @@
       "EndMonth": "04",
       "Details": {
         "ja": "3D AIキャラクターをアプリやウェブサイトに組み込むためのSaaS製品",
-        "en": "SaaS product for incorporating 3D AI Characters into any app or website, featuring AI TTS and animations including motion, facial expressions and mouth movements",
+        "en": "SaaS product for incorporating 3D AI Characters into any app or website",
         "de": "SaaS-Produkt zur Integration von 3D-KI-Charakter"
       },
       "Links": {
@@ -1402,7 +1418,7 @@
       "Details": {
         "ja": "私は11年間プログラミングをしており, ほとんどの人気のあるプログラミング言語に精通していますが, JavaScript/TypeScript, HTML, CSS, Dartに特化しています。Python2, Python3, Objective-C, Swift, Java, PHP, C＃, C, Rustなど, さまざまな環境で使用してきました。\n　PHPはProinternetでの高校時代の仕事でホームオートメーションに使用し, IP-Symconを介してKNXシステムに接続しました。また, Amazon Alexaが最初に登場したときに自分のデバイスを音声で操作し, PHPをバックエンド言語として使用してSSLで保護されたサーバーを設定および使用しました。\n　C＃はシステムユーティリティに使用し, PHP拡張機能を書いてそれらにアクセスしました。Rustとyewフレームワークを使用して, Webのwisywigノーコードエディター（Judit）を作成し, ネイティブの3D機能を含めました。\n　CJKIでの仕事では, Javaを使用してAndroidアプリケーションを維持し, さまざまなその他のコンソールアプリケーションを作成しました。iOSアプリにはObjective-CとSwiftを使用しました。FlutterアプリにはDartとCをFFIブリッジを介して使用しました。Pythonはさまざまな一時的なスクリプトに使用し, Excelドキュメントやその他のデータ形式を作成, 変換, フォーマットするため, データテストやその他のタスクに使用しました。",
         "en": "I have been programming for 11 years and have experience in most popular programming languages, but I specialize in JavaScript/TypeScript, HTML, CSS and Dart. I have worked with Python2, Python3, Objective-C, Swift, Java, PHP, C#, C and Rust in various environments. \n\nI used PHP for home-automation at my job at Prointernet during high-school, connecting to KNX systems through IP-Symcon. I also voice-activated my own devices using Amazon Alexa when it first came out, setting up and using my own SSL-secured server with PHP as my backend language. \n\nI used C# for system utilities and accessed those by writing PHP extensions. I used Rust and the yew framework to write a web wisywig no-code editor (Judit), including native 3D capabilities. \n\nAt my job at CJKI, I used Java to maintain Android applications and to write some miscellaneous console applications. For iOS apps I used Objective-C and Swift. For Flutter apps I used Dart and C through the FFI bridge. I used Python for various one-off scripts that would create, convert and format excel documents and various other data formats, for data testing and for various other tasks such as automation.",
-        "de": "Ich programmiere seit 11 Jahren und habe Erfahrung in den meisten beliebten Programmiersprachen, aber ich habe mich auf JavaScript/TypeScript, HTML, CSS und Dart spezialisiert. Ich habe mit Python2, Python3, Objective-C, Swift, Java, PHP, C#, C und Rust in verschiedenen Umgebungen gearbeitet. \n\nIch habe PHP für die Heimautomatisierung bei meiner Arbeit bei Prointernet während der Highschool verwendet, um eine Verbindung zu KNX-Systemen über IP-Symcon herzustellen. Ich habe auch meine eigenen Geräte mit Amazon Alexa aktiviert, als es zum ersten Mal herauskam, und meinen eigenen SSL-gesicherten Server mit PHP als Backend-Sprache eingerichtet und verwendet. \n\nIch habe C# für Systemdienstprogramme verwendet und auf diese durch Schreiben von PHP-Erweiterungen zugegriffen. Ich habe Rust und das Yew-Framework verwendet, um einen Web-Wisywig-No-Code-Editor (Judit) zu schreiben, einschließlich nativer 3D-Fähigkeiten. \n\nBei meiner Arbeit bei CJKI habe ich Java verwendet, um die Android-Anwendungen zu warten und einige verschiedene Konsolenanwendungen zu schreiben. Für iOS-Apps habe ich Objective-C und Swift verwendet. Für Flutter-Apps habe ich Dart und C über die FFI-Brücke verwendet. Ich habe Python für verschiedene einmalige Skripte verwendet, die Excel-Dokumente und verschiedene andere Datenformate erstellen, konvertieren und formatieren, für Datentests und für verschiedene andere Aufgaben wie Automatisierung."
+        "de": "Ich programmiere seit 11 Jahren und habe Erfahrung in den meisten beliebten Programmiersprachen. Meine Expertise liegt in JavaScript/TypeScript, HTML, CSS und Dart. Ich habe ebenfalls professionelle Erfahrung in Python2, Python3, Objective-C, Swift, Java, PHP, C#, C und Rust. \n\nIch habe PHP für die Heimautomatisierung bei meiner Arbeit bei Prointernet zu meiner Oberstufenzeit verwendet, um KNX-Geräte über IP-Symcon zu automatisieren. Ich habe diese Gelegenheit genutzt, um auch meine eigenen Geräte zu automatisieren, einschließlich Sprachsteuerung über Amazon Alexa und eigenem SSL-gesicherten Heim-Server. \n\nIch habe C# für System-programme verwendet und diese über eigens entwickelte PHP-Erweiterungen zugänglich gemacht. Rust habe ich verwended, um einen Web-Wisywig-No-Code-Editor (Judit) zu programmieren, einschließlich nativer 3D-Fähigkeiten. Da ein einheitlicher Tech-stack Redundanz und Fehler zwischen Fontend und Backend kommunikation mitigiert, habe ich die Entscheidung getroffen, das Fontend ebenfalls in Rust zu programmieren. Das React-ähnliche yew framework hat sich für diese Aufgabe als optimaler Kandidat bewiesen. \n\nBei meiner Arbeit bei CJKI habe ich Java verwendet, um Android-Anwendungen zu warten und einige verschiedene Konsolenanwendungen zu schreiben. Für iOS-Apps habe ich Objective-C und Swift verwendet. Für Flutter-Apps habe ich Dart und C über die FFI-Brücke verwendet. Ich habe Python für verschiedene einmalige Skripte verwendet, die Excel-Dokumente und verschiedene andere Datenformate erstellen, konvertieren und formatieren. Für Datentests und für verschiedene andere Aufgaben wie Automatisierung habe ich ebenfals Python benutzt."
       },
       "Technology": {
         "ja": "JavaScript, TypeProgrammingScript, HTML, CSS, Dart, Python2, Python3, Objective-C, Swift, Java, PHP, C#, C, Rust, Flutter, FFI, yew, wasm-bindgen, web-sys, proc-macro2, quote, CI/CD, Githubアクション, テスト",
@@ -1438,7 +1454,7 @@
       "Details": {
         "ja": "私は非常に速く学びます。新しいプログラミング言語, 新しいコードベース, 新しい規約, または完全に新しいスキルであっても, 他の誰よりも知識とスキルを獲得します。CJKIでの仕事では, マーケティング活動に関与し, 投資家アトラクションプロジェクトを担当しました。これらは仕事中に習得したスキルであり, 最も収益性の高い投資機会の1つを引き付ける責任がありました。\n　私は仕事に非常に献身的です。仕事が迅速かつ効率的に, 高品質で行われることを心から願っています。プロジェクトが設計とアーキテクチャの両方で業界標準に従い, 適切なドキュメント化が行われ, スムーズなUXとDXが確保されるよう, プロジェクトが適切に実施されるよう, 私は最善を尽くします。",
         "en": "I learn incredibly fast. Whether it's new programming languages, a new codebase, new conventions or new skills entirely, I acquire knowledge and skills like no one else. At my job at CJKI, I was involved in marketing efforts and in charge of investor attraction projects, both of which were skills I acquired during the job; To the degree that I was in charge of attracting one of our most lucrative investment opportunities. \n\nI am also incredibly dedicated to my work. I care about a job being done fast, efficiently and to a high degree of quality. I will go out of my way to ensure projects follow industry standards in both design and architecture, including proper documentation and ensuring a smooth UX and DX.",
-        "de": "Ich lerne außerordentlich schnell. Ob es sich um neue Programmiersprachen, neue Codebasen, neue Konventionen oder völlig neue Fähigkeiten handelt, ich erwerbe Wissen und Fähigkeiten wie niemand sonst. In meiner Arbeit bei CJKI war ich an Marketingbemühungen beteiligt und für Projekte zur Anziehung von Investoren verantwortlich. Beides Fähigkeiten, die ich während der Arbeit erworben habe; In dem Maße, dass ich damit beauftragt war, eine unserer lukrativsten Investitionsmöglichkeiten anzuziehen. \n\nIch bin zudem überaus engagiert in meiner Arbeit. Mir ist es wichtig, dass eine Arbeit schnell, effizient und in hoher Qualität erledigt wird. Ich sorge dafür, dass Projekte branchenüblichen Standards in Design und Architektur folgen, einschließlich ordnungsgemäßer Dokumentation und Sicherstellung reibungsloser UX und DX."
+        "de": "Ich lerne außerordentlich schnell. Ob es sich um neue Programmiersprachen, neue Codebasen, neue Konventionen oder völlig neue Fähigkeiten handelt, ich erwerbe Wissen und Fähigkeiten wie niemand sonst. In meiner Arbeit bei CJKI war ich an Marketingbemühungen beteiligt und für Projekte zur Anziehung von Investoren verantwortlich. Beides Fähigkeiten, die ich während der Arbeit erworben habe; In dem Maße, dass ich damit beauftragt wurde, die bemühungen zur Gewinnung der lukrativsten Investitionsmöglichkeit in der Firmengeschichte anzuleiten. \n\nIch bin zudem überaus engagiert in meiner Arbeit. Mir ist es wichtig, dass Arbeit schnell, effizient und in hoher Qualität erledigt wird. Ich sorge dafür, dass Projekte branchenüblichen Standards in Design und Architektur folgen, einschließlich ordnungsgemäßer Dokumentation und Sicherstellung reibungsloser UX und DX."
       },
       "Technology": {
         "ja": "高速学習, プログラミング言語, 規約, マーケティング, 投資家誘致, 業界標準, デザイン, アーキテクチャ, ドキュメンテーション, UI, UX, DX",
@@ -1450,13 +1466,13 @@
   "Expectations": {
     "Workplace": {
       "ja": "私は, さまざまなプロジェクトに関与し, それらを担当する自由を与えられる長期的な職場を探しています。私の専門知識が信頼される資産であり, 疑念の対象ではない場所で, ビジョンを技術的に健全な方法で具現化する自由を期待しています。",
-      "en": "I am looking for a long-term workplace where I can be involved and in charge of various projects. I expect to be given the freedom to bring visions to fruition in a technically sound way, where my expertise is a trusted asset, not an object of suspicion.",
-      "de": "Ich suche einen langfristigen Arbeitsplatz, an dem ich an verschiedenen Projekten beteiligt bin und diese leite. Ich erwarte, dass mir die Freiheit gegeben wird, Visionen auf technisch fundierte Weise zu verwirklichen, in der meine Expertise ein vertrauenswürdiges Gut ist, kein Objekt des Verdachts."
+      "en": "I am looking for a long-term workplace where I can be involved and in charge of various projects. I want to have the freedom to bring visions to fruition in a technically sound way. I hope my broad expertise and depth of experience will lead to the creation of something incredible!",
+      "de": "Ich suche einen langfristigen Arbeitsplatz, an dem ich an verschiedenen Projekten beteiligt bin und die Leitung für einige übernehmen kann. Ich schätze es, wenn mir die Freiheit gegeben wird, Visionen auf technisch fundierte Weise zu verwirklichen. Ich schätze eine effiziente Arbeitsweise, die die bestmöglichen Resultate und den höchstmöglichen Profit generiert. Ich möchte meine weitgreifende Expertise und Erfahrungstiefe nutzen, um ihre Projekte auf das nächste Level zu bringen. Wenn sie bereit sind, ihre Firma zum Branchenführer zu machen, dann bin ich der Entwicker für sie."
     },
     "Salary": {
-      "ja": "ボーナスを含めて10,000,000 JPY (要相談)",
+      "ja": "ボーナスを含めて7,000,000 JPY (要相談)",
       "en": "100,000.00 USD (including bonuses, negotiable)",
-      "de": "65.000,00 EUR (einschließlich Boni, verhandelbar)"
+      "de": "50.000,00 EUR (einschließlich Boni, verhandelbar)"
     }
   },
   "Story": {
